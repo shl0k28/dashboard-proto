@@ -1,0 +1,52 @@
+Tasks completed(7Nov - 14Nov):
+	-Designed the landing page.(S)
+	-Minor SEO upgrades.
+	-Registered the domain indebit.tech(S)
+	-Hosted the site and connected it to the domain.(S)
+	-Made a LinkedIn page for the biz.(S)
+
+Tasks to be done for Week 1(15Nov - 21Nov):
+	-Prototype the entire student platform using React & Tailwind(Design & routing only.)(S) 
+	-Buy a linkedin prem and reach out to atleast 100 investors(15/day min).(H,S)	-Modify the biz model.(H,S)
+	-Create an elevator pitch.(H,S)
+	-Talk to Allen & Ushang for the stack(S).
+	-Regularly post twice a day on our Linkedin page.(H)
+	-Reach out to 50 random college students and gather data(H).
+
+Tasks for Week 2(22Nov - 28Nov):
+	-Buy a google cloud account.
+	-Create a landing page for investors
+	-Create subdomains and route it to diff landing pages.
+	-Connect the student proto to the firebase and AWS.(S)
+	-Reach out to 200 investors(30/day min).
+	-Create a FB & Insta Page and setup FB & Google Ads(H,S).
+	-Reach out to 200 Random college students, gather data.(H).
+	-Post twice a day on linkedin.(H)
+
+Tasks for Week 3(29Nov - 5Dec):
+	-Write cloud functions for the backend and host it on AWS.(S)
+	-Create a CI/CD pipeline on Jenkins to host the docker container inside a Kubernetes cluster on GCR.(S)
+	-Reach out to 300 investors(40/day min).(H)
+	-Talk to Manan for data collection for the ML Model.(S,H).
+	-Reach out to 250 Random college students, gather data(H).
+	-Post thrice a day on linkedin.(H)
+
+Tasks for Week 4(6Dec - 12Dec):
+	-Register a corporation in delaware(Board of dir: Shlok - 70%,Heer - 10%).
+	-Continuous Backend and DB integration with frontend.(S)
+	-Begin blockchain development.(S)
+	-Data Aggregation for student records and their career paths from 2010 - 2018 for US,EU,Swiss,Can.(ML Guy)
+	-Hyperparameter tuning and development of the prediction model(ML Guy,S).
+	-Complete the basic API for all the features for beta.(S)
+	-Post 4 times a day on linkedin(H).
+
+Tasks for Week 5(13Dec - 19Dec):
+	-Host the ML function on cloud(ML Guy).
+	-Post thrice a day on linkedin.(H).
+	-Reach out to 3-4 investors a day(H).
+
+Tasks for Week 6(20Dec - 27Dec):
+	-Complete ML and Backend integration in the platform.(S)
+
+-Launch the product on New Years' EVE.
+	 
